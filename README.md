@@ -1,2 +1,2 @@
 # IBM-coursera-exercises
- T. IBM course
+ This repo is made for having my courses notebooks. I may put some of my own later on.
